@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: gcr.io/single-azimuth-262005/app:v1
+        image: gcr.io/lexluthor/app:v1
         ports:
         - containerPort: 8083
 ---
